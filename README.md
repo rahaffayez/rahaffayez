@@ -16,11 +16,6 @@ I am a **Data Science enthusiast** with a passion for exploring and analyzing da
 - **Member at CAT Reloaded**
 - **Volunteer at IEEE Mansoura Computer Society**
 
-## 📝 About Me
-I am always eager to learn and expand my knowledge in data science and related fields. I enjoy working on projects that involve data analysis, machine learning, and artificial intelligence. My goal is to leverage data science to solve real-world problems and make a positive impact.
-
-Feel free to reach out to me through the provided contact information or connect with me on LinkedIn. Let's collaborate and make a difference together!
-
 ---
 
 **Rahaf Fayez**  
