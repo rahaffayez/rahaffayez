@@ -1,23 +1,19 @@
-# Hi there, I'm Rahaf Fayez 🌟
+<h1 align="left">
+  <span id="typewriter"></span>
+</h1>
 
-I am a **Data Science enthusiast** with a passion for exploring and analyzing data to uncover valuable insights. I am currently a third-year student in Computer Science and actively involved in several organizations.
+<script>
+  var i = 0;
+  var txt = "Hi there, I'm Rahaf Fayez";
+  var speed = 100; // Speed of typing in milliseconds
 
-## 🌐 Contact Information
-- 📧 **Email:** [rahaffayz51@gmail.com](mailto:rahaffayz51@gmail.com)
-- 💼 **LinkedIn:** [Rahaf Fayez](https://www.linkedin.com/in/rahaf-fayez-481692287/)
-- 🖥️ **Kaggle:** [rahaffayez](https://www.kaggle.com/rahaffayez)
+  function typeWriter() {
+    if (i < txt.length) {
+      document.getElementById("typewriter").innerHTML += txt.charAt(i);
+      i++;
+      setTimeout(typeWriter, speed);
+    }
+  }
 
-## 🌟 Language Skills
-- **Arabic:** Native
-- **English:** Advanced
-- **German:** Beginner
-
-## 🤝 Volunteering
-- **Member at CAT Reloaded**
-- **Volunteer at IEEE Mansoura Computer Society**
-
----
-
-**Rahaf Fayez**  
-*Data Science Enthusiast*  
-*Fourth-Year Computer Science Student*  
+  window.onload = typeWriter;
+</script>
