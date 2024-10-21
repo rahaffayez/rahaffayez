@@ -1,19 +1,20 @@
-<h1 align="left">
-  <span id="typewriter"></span>
-</h1>
+# ![Hi there, I'm Rahaf Fayez]
 
-<script>
-  var i = 0;
-  var txt = "Hi there, I'm Rahaf Fayez";
-  var speed = 100; // Speed of typing in milliseconds
+I am a **Data Science enthusiast** with a passion for exploring and analyzing data to uncover valuable insights. I am currently a third-year Computer Science student and actively involved in several organizations.
 
-  function typeWriter() {
-    if (i < txt.length) {
-      document.getElementById("typewriter").innerHTML += txt.charAt(i);
-      i++;
-      setTimeout(typeWriter, speed);
-    }
-  }
+*Fourth-Year Computer Science Student*
+## Contact Information
+- **Email:** [rahaffayz51@gmail.com](mailto:rahaffayz51@gmail.com)
+- **LinkedIn:** [Rahaf Fayez](https://www.linkedin.com/in/rahaf-fayez-481692287/)
+- **Kaggle:** [rahaffayez](https://www.kaggle.com/rahaffayez)
 
-  window.onload = typeWriter;
-</script>
+## Language Skills
+- **Arabic:** Native
+- **English:** Advanced
+- **German:** Beginner
+
+## Volunteering
+- **Member at CAT Reloaded**
+- **Volunteer at IEEE Mansoura Computer Society**
+
+
