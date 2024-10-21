@@ -1,4 +1,4 @@
-# ![Hi there, I'm Rahaf Fayez]
+# Hi there, I'm Rahaf Fayez
 
 I am a **Data Science enthusiast** with a passion for exploring and analyzing data to uncover valuable insights. I am currently a third-year Computer Science student and actively involved in several organizations.
 
